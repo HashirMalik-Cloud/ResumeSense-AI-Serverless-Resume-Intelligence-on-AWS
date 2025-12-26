@@ -1,0 +1,81 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f5f7fb;
+  padding: 40px;
+  max-width: 900px;
+  margin: auto;
+}
+
+h1 {
+  color: #1f2937;
+}
+
+.subtitle {
+  color: #6b7280;
+  margin-bottom: 30px;
+}
+
+.card {
+  background: white;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 10px 20px rgba(0,0,0,0.08);
+}
+
+input {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+}
+
+button {
+  padding: 10px 16px;
+  background: #2563eb;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #1e40af;
+}
+
+.loader {
+  margin: 20px auto;
+  border: 6px solid #e5e7eb;
+  border-top: 6px solid #2563eb;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  animation: spin 1s linear infinite;
+}
+
+.hidden {
+  display: none;
+}
+
+@keyframes spin {
+  100% { transform: rotate(360deg); }
+}
+
+.result {
+  margin-top: 30px;
+  background: white;
+  padding: 25px;
+  border-radius: 10px;
+}
+
+.skills {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.skill-tag {
+  background: #eef2ff;
+  color: #1e3a8a;
+  padding: 6px 10px;
+  margin: 5px;
+  border-radius: 8px;
+  font-size: 13px;
+}
