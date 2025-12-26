@@ -4,8 +4,7 @@
 
 ## 🎥 Video Walkthrough
 
-Watch the complete project walkthrough here:  
-👉 **https://www.youtube.com/watch?v=https://youtu.be/axOhQVjGW24?si=yyHmXixBq9kkPV-E**
+[▶ Watch the full project video walkthrough](https://youtu.be/axOhQVjGW24?si=yyHmXixBq9kkPV-E)
 
 ---
 
