@@ -45,9 +45,9 @@ This project demonstrates how modern cloud services can be combined to build a r
 
 ## 📸 UI Preview
 
-![UI Demo](Screenshots/Results%20showing%20on%20frontend%201.png)
+![UI Demo](Screenshots/Results%20showing%20on%20frontend%201.PNG)
 
-![Processed Output](Screenshots/Results%20showing%20on%20frontend%202.png)
+![Processed Output](Screenshots/Results%20showing%20on%20frontend%202.PNG)
 
 ---
 
